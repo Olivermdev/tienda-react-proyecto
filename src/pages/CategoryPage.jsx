@@ -1,0 +1,1 @@
+export default function CategoryPage() { return <h1>Página de Categoría</h1>; }
