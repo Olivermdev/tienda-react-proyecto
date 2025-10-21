@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tienda-react-proyecto/static/css/main.2cda75fa.css",
+    "main.js": "/tienda-react-proyecto/static/js/main.f65ddc1c.js",
+    "index.html": "/tienda-react-proyecto/index.html",
+    "main.2cda75fa.css.map": "/tienda-react-proyecto/static/css/main.2cda75fa.css.map",
+    "main.f65ddc1c.js.map": "/tienda-react-proyecto/static/js/main.f65ddc1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cda75fa.css",
+    "static/js/main.f65ddc1c.js"
+  ]
+}
